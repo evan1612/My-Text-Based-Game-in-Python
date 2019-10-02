@@ -3,7 +3,8 @@ trade method bugged?
 
 Notes:
 1) Able to buy all and sell all items in list if I do 1 by 1, using quit command after each trade.
-2) Using a number that isn't on list causes the same error to occur.
+2) Using a number that isn't listed in trade window menu to select an item causes the same error to occur.
+   E.G.(list #s are 1-4, typing 5 then enter causing same error)
 
 
 error recieved:
